@@ -23,11 +23,11 @@ author:  # change following line to your infomation.
   cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: java
-    - name: fa-linux
+    - name: fa-java
+    - name: fa-python
   skill_icon2:
-    - name: fa-linux
-    - name: icon-apache
+    - name: fa-apple
+    - name: icon-unity
   desc: 家在广东汕尾，常年在南京，现南京大学计算机系大三.  # Describe yourself.
 
 # comment
