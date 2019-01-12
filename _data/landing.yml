@@ -2,7 +2,7 @@
 # custom following lines to edit your index page
 - id: about-me
   i18n: nav.about_me
-  name: 我 #About
+  name: 概况 #About
   tpl: about.html
   css:
 
@@ -14,7 +14,7 @@
 
 - id: skills
   i18n: nav.skills
-  name: 技能点 #Skills
+  name: 技能 #Skills
   tpl: skills.html
   css: team
 
@@ -26,7 +26,7 @@
 
 - id: blog
   i18n: nav.blog
-  name: 甜椰未来科技公司 #Blog
+  name: 博文 #Blog
   tpl: blog.html
   page: blog/
   css: testimonials navy-section
