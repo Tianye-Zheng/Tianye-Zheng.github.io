@@ -8,7 +8,7 @@
 
 - id: career
   i18n: nav.career
-  name: 工作 #Career
+  name: 事业 #Career
   tpl: career.html
   css: timeline
 
