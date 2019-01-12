@@ -14,7 +14,7 @@
 
 - id: skills
   i18n: nav.skills
-  name: 技能 #Skills
+  name: 技能点 #Skills
   tpl: skills.html
   css: team
 
@@ -33,6 +33,6 @@
 
 - id: links
   i18n: nav.link
-  name: 链接 #Links
+  name: 更多 #Links
   tpl: links.html
   css: contact
