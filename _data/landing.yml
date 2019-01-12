@@ -2,37 +2,37 @@
 # custom following lines to edit your index page
 - id: about-me
   i18n: nav.about_me
-  name: About
+  name: 关于 #About
   tpl: about.html
   css:
 
 - id: career
   i18n: nav.career
-  name: Career
+  name: 工作 #Career
   tpl: career.html
   css: timeline
 
 - id: skills
   i18n: nav.skills
-  name: Skills
+  name: 技能 #Skills
   tpl: skills.html
   css: team
 
 - id: projects
   i18n: nav.projects
-  name: Projects
+  name: 项目 #Projects
   tpl: projects.html
   css: project
 
 - id: blog
   i18n: nav.blog
-  name: Blog
+  name: 博客 #Blog
   tpl: blog.html
   page: blog/
   css: testimonials navy-section
 
 - id: links
   i18n: nav.link
-  name: Links
+  name: 链接 #Links
   tpl: links.html
   css: contact
