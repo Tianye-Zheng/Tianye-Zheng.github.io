@@ -1,18 +1,18 @@
 # links section data
-- last_name: Name 1
+- last_name: 会喷火的椰子
   first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+  desc: 我的 bilibili 主页
+  website: http://space.bilibili.com/287908790?
+  email: 1260230483@qq.com
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
+- last_name: 会喷火的甜椰
+  first_name:
+  desc: 我的微博主页
+  website: https://weibo.com/u/6018534161?topnav=1&wvr=6&topsug=1&is_hot=1
+  email: 1260230483@qq.com
 
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+- last_name: Tianye-Zheng
+  first_name:
+  desc: 我的 github 主页
+  website: https://github.com/Tianye-Zheng
+  email: 1260230483@qq.com
