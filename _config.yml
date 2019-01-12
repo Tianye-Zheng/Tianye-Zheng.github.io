@@ -24,9 +24,9 @@ author:  # change following line to your infomation.
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: fa-java
-    - name: fa-python
+    - name: icon-cplusplus
   skill_icon2:
-    - name: fa-apple
+    - name: fa-python
     - name: icon-unity
   desc: 家在广东汕尾，常年在南京，现南京大学计算机系大三.  # Describe yourself.
 
