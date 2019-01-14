@@ -1,4 +1,16 @@
 # links section data
+- last_name: 焰火之团扇椰
+  first_name:
+  desc: 我的知乎主页
+  website: https://www.zhihu.com/people/yuan-wei-ye-87/activities
+  email: 1260230483@qq.com
+
+- last_name: 郑天烨
+  first_name:
+  desc: 我的 Stack Overflow 主页
+  website: https://stackoverflow.com/users/10866828/%E9%83%91%E5%A4%A9%E7%83%A8
+  email: 1260230483@qq.com
+
 - last_name: 会喷火的椰子
   first_name:
   desc: 我的 bilibili 主页
