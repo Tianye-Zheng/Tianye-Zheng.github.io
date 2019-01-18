@@ -7,8 +7,8 @@
 - name: Linux
   href: /linux/
 
-- name: Git
-  href: /git/
+- name: Go
+  href: /go/
 
 - name: Java
   href: /java/

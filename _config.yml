@@ -27,7 +27,7 @@ author:  # change following line to your infomation.
     - name: icon-cplusplus
   skill_icon2:
     - name: icon-python
-    - name: icon-unity
+    - name: icon-linux
   desc: open mind, always try, 人类的伟大之处在于认识自我.  # Describe yourself.
 
 # comment
