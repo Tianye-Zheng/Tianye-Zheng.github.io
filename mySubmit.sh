@@ -2,8 +2,8 @@
 
 git add .
 if [ ! $1 ]; then
-	$1="my commit"
+	git commit -m "my commit"
+else
+	git commit -m "$1"
 fi
-
-git commit -m "$1"
 git push -u origin master
