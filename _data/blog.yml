@@ -19,6 +19,9 @@
 - name: 杂项
   href: /杂项/
 
+- name: 大数据
+  href: /大数据/
+
 # Don't display donation page: change donation to off at file '_config.yml'
 - name: Donate
   href: /donate/
