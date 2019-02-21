@@ -1,5 +1,5 @@
 #!usr/bin/python
-# this script is use for generating base64 code of a picture and embed in a post
+# this script is use for generating base64 code of a picture which to be embedded in a post
 
 import base64
 import sys
