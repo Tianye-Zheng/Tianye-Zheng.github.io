@@ -62,9 +62,9 @@ sass:
 encoding: utf-8
 
 # other settings
-highlighter: pygments
+highlighter: rouge
 markdown: kramdown
 kramdown:
   input: GFM
-  syntax_highlighter: pygments
+  syntax_highlighter: rouge
 
