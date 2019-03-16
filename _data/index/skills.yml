@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: 睡觉, 玩游戏, 出门浪, 尬聊, 觅食, 游泳  #GitHub, Motivation, HTML5, ReactJS, Machine Learing, Python, Sleeping
-percentage: 100, 60, 40, 30, 50, 60
+aspects: Java, C++, Python, algorithm, dataStructure, 游泳  #GitHub, Motivation, HTML5, ReactJS, Machine Learing, Python, Sleeping
+percentage: 90, 50, 60, 50, 50, 60
