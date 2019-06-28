@@ -8,7 +8,21 @@ categories: [Java]
 tags: []
 icon: icon-html
 ---
+
 实验总结的小备忘录
+<br />
+首先切换到目录下，在我的虚拟机是 `/home/hadoop/hadoop_installs/hadoop-2.7.1/`
+
+启动
+`sbin/start-all.sh`
+<br />
+
+列出运行进程
+`jps`
+<br />
+
+停止
+`sbin/stop-all.sh`
 <br />
 
 集群启动正常启动后，用浏览器打开查看 HDFS 文件系统
