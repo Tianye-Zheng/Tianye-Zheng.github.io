@@ -4,7 +4,7 @@ title:  "Linux部署Hadoop伪集群常用命令"
 date:   2019-04-09
 desc: ""
 keywords: ""
-categories: [Java]
+categories: [Linux]
 tags: []
 icon: icon-html
 ---
